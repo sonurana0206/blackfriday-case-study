@@ -46,7 +46,7 @@ The dataset is available on Kaggle: [Black Friday Dataset](https://www.kaggle.co
 
 ## How to Use
 1. Download the dataset from Kaggle.  
-2. Open `BlackFriday_Analysis.ipynb` in Google Colab or locally.  
+2. Open `DataAnalysisPandas_With_Code(Assignment).ipynb` in Google Colab or locally.  
 3. Run all cells to reproduce the analysis and results.
 
 ---
